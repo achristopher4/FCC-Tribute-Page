@@ -1,0 +1,27 @@
+#main{
+  background: lightgrey;
+  opacity: 5%;
+}
+
+#title{
+  text-align: center;
+}
+
+#img-div{
+  text-align: center;
+  background: white;
+}
+#image{
+  position: relative;
+  max-width: 75%;
+  width: auto;
+  margin: auto;
+}
+
+#tribute-info{
+  text-align: left;
+}
+
+.ul{
+  list-style-type: circle;
+}
